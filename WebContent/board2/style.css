@@ -1,0 +1,62 @@
+BODY {
+	LINE-HEIGHT: 160%; FONT-FAMILY: 고딕,verdana,tahoma
+}
+TD {
+	LINE-HEIGHT: 160%; FONT-FAMILY: 고딕,verdana,tahoma
+}
+SELECT {
+	 COLOR: #3a3934; LINE-HEIGHT: 160%; FONT-FAMILY: 고딕,verdana,tahoma
+}
+DIV {
+	  LINE-HEIGHT: 160%; FONT-FAMILY: 고딕,verdana,tahoma
+}
+FORM {
+	 COLOR: #3a3934; LINE-HEIGHT: 160%; FONT-FAMILY: 고딕,verdana,tahoma
+}
+TEXTAREA {
+	BORDER-RIGHT: 1px solid #3a3934; BORDER-TOP: 1px solid #3a3934; BORDER-LEFT: 1px solid #3a3934 ; COLOR: #3a3934; BORDER-BOTTOM: 1px solid #3a3934; FONT-FAMILY: 고딕,verdana; BACKGROUND-COLOR: white
+}
+INPUT {
+	BORDER-RIGHT: 1px solid #3a3934; BORDER-TOP: 1px solid #3a3934;  BORDER-LEFT: 1px solid #3a3934; COLOR: #3a3934; BORDER-BOTTOM: 1px solid #3a3934; FONT-FAMILY: 고딕,verdana; HEIGHT: 19px; BACKGROUND-COLOR: white
+}
+*{
+	font-family :"고딕";
+}
+A:link {text-decoration:none;color:#38532e}
+A:hover{text-decoration:yes;color:#38532e}
+A:visited {text-decoration:none;color:#38532e}
+
+table.type10 {
+    border-collapse: collapse;
+    text-align: left;
+    line-height: 1.5;
+    border-top: 1px solid #ccc;
+    border-bottom: 1px solid #ccc;
+    margin: 20px 10px;
+}
+table.type10 thead th {
+    width: 150px;
+    padding: 10px;
+    font-weight: bold;
+    vertical-align: top;
+    color: #fff;
+    background: #cdd619;
+    margin: 20px 10px;
+}
+table.type10 tbody th {
+    width: 150px;
+    padding: 10px;
+}
+table.type10 td {
+    width: 350px;
+    padding: 10px;
+    vertical-align: top;
+}
+table.type10 .even {
+    background: #fdf3f5;
+}
+
+.content{
+	padding-top : 150px;
+	padding-bottom:150px;
+}

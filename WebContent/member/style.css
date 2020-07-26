@@ -1,0 +1,29 @@
+BODY {
+	LINE-HEIGHT: 160%; FONT-FAMILY: 고딕,verdana,tahoma
+}
+TD {
+	LINE-HEIGHT: 160%; FONT-FAMILY: 고딕,verdana,tahoma
+}
+SELECT {
+	 COLOR: #3a3934; LINE-HEIGHT: 160%; FONT-FAMILY: 고딕,verdana,tahoma
+}
+DIV {
+	  LINE-HEIGHT: 160%; FONT-FAMILY: 고딕,verdana,tahoma
+}
+FORM {
+	 COLOR: #3a3934; LINE-HEIGHT: 160%; FONT-FAMILY: 고딕,verdana,tahoma
+}
+TEXTAREA {
+	BORDER-RIGHT: 1px solid #3a3934; BORDER-TOP: 1px solid #3a3934; BORDER-LEFT: 1px solid #3a3934 ; COLOR: #3a3934; BORDER-BOTTOM: 1px solid #3a3934; FONT-FAMILY: 고딕,verdana; BACKGROUND-COLOR: white
+}
+INPUT {
+	BORDER-RIGHT: 1px solid #3a3934; BORDER-TOP: 1px solid #3a3934;  BORDER-LEFT: 1px solid #3a3934; COLOR: #3a3934; BORDER-BOTTOM: 1px solid #3a3934; FONT-FAMILY: 고딕,verdana; HEIGHT: 19px; BACKGROUND-COLOR: white
+}
+*{
+	font-family :"고딕";
+}
+A:link {text-decoration:none;color:#38532e}
+A:hover{text-decoration:yes;color:#38532e}
+A:visited {text-decoration:none;color:#38532e}
+
+
